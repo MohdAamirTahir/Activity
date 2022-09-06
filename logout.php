@@ -86,8 +86,7 @@ session_start();
 					<li class="nav-item"><a class="nav-link"  href="Contact.php" style="width: 110px; text-align: center;">CONTACT</a></li>
 					<li class="nav-item"><a class="nav-link" href="signin.php" style="width: 110px; text-align: center;">SIGN IN</a></li>        
                     <li class="nav-item"><a class="nav-link" href="login.php" style="width: 110px; text-align: center;">LOGIN</a></li>
-					<li class="nav-item active"><a class="nav-link" href="logout.php" style="border-bottom: 3px solid #77b300; font-size: 17px;">LOGOUT</a></li>        
-        
+				    <li class="nav-item active"><a class="nav-link" href="logout.php" style="border-bottom: 3px solid #77b300; font-size: 17px;">LOGOUT</a></li>        
 				</ul>
 			</div>	
 		</div>
@@ -112,11 +111,14 @@ session_start();
 }
     }
     
-?>
-    <p class="text-center"><a href="signin.php">Create an Account</a></p>
+?> 	
 </div>
 	</section><br> 
-
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
 	<footer class="bg-dark">
 		<div class="row">
 			<div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
